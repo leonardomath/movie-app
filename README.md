@@ -1,10 +1,10 @@
-# Fortnite Player Status
+# Search Movie App
 
 ## Getting Started
 
 You dont need generate an api key, but you can get one here: http://www.omdbapi.com/
 
-![Image](/public/app.png)
+![Image](/public/movie.png)
 
 ### Prerequisites
 
